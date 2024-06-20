@@ -10,4 +10,4 @@
 
 [![Kenyu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenyu1023mori&theme=2077)]
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kenyu1023mori&thema=algolia)](https://github.com/kenyu1023mori/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenyu1023mori&thema=onedark)](https://github.com/kenyu1023mori/github-profile-trophy)
