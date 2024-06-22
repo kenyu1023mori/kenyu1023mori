@@ -4,6 +4,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenyu1023mori)](https://github.com/kenyu1023mori/github-readme-stats)
 
+![github-readme-stats](https://github-readme-stats-y3l2.vercel.app/api/?username=kenyu1023mori)
+
+![github-readme-stats](https://github-readme-stats-y3l2.vercel.app/api/top-langs/?username=kenyu1023mori)
+
 [![Kenyu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenyu1023mori&theme=2077)]
 
 [![Kenyu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenyu1023mori&theme=2077)]
