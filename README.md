@@ -7,9 +7,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kenyu1023mori&theme=algolia)](https://github.com/kenyu1023mori/github-profile-trophy)
 
 ![Kenyu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kenyu1023mori&theme=2077)
-
-![Kenyu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kenyu1023mori&theme=2077)
-
-![Kenyu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kenyu1023mori&theme=2077)
-
-
